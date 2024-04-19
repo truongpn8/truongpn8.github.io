@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'truongpn'
+theme = "blowfish"
+
+tags = ["blog", "minimal", "responsive", "dark mode", "dark", "light", "tailwind", "personal"]
+features = ["syntax highlighting", "dark mode", "emoji", "firebase", "views"]
+
+[author]
+  name = "truongpn"
